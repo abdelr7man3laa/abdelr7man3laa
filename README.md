@@ -1,3 +1,4 @@
+<img src="banner.png" width="100%">
 # Hi, I'm Abdelrhman 
 
 ## Aspiring Data Analyst
