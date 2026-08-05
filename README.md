@@ -11,9 +11,9 @@ I am an aspiring Data Analyst passionate about transforming raw data into action
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Featured Projects
-  FIFA World Cup Dashboard
+  ### 🏆 FIFA World Cup Excel Dashboard
 
-  Interactive FIFA World Cup Dashboard built with Microsoft Excel.
+Interactive dashboard built using Microsoft Excel with Pivot Tables, Pivot Charts, KPIs, Slicers, and Data Visualization.
 
 🔗 https://github.com/abdelr7man3laa/FIFA-World-Cup-Excel-Dashboard
 
