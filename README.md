@@ -1,6 +1,5 @@
 <img src="banner.png" width="100%">
-# Hi, I'm Abdelrhman 
-
+# Hi, I'm Abdelrhman 👋
 ## Aspiring Data Analyst
 
 I enjoy transforming raw data into meaningful insights using data analysis and visualization techniques.
