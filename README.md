@@ -2,14 +2,13 @@
 # Hi, I'm Abdelrhman 👋
 ## Aspiring Data Analyst
 
-I enjoy transforming raw data into meaningful insights using data analysis and visualization techniques.
-
+I am an aspiring Data Analyst passionate about transforming raw data into actionable insights through dashboards, visualization, and business analysis.
 ### Skills
 
-- Microsoft Excel
-- SQL
-- Power BI
-- Python (Learning)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### Featured Projects
 
