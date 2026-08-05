@@ -18,11 +18,12 @@ Interactive dashboard built using Microsoft Excel with Pivot Tables, Pivot Chart
 🔗 https://github.com/abdelr7man3laa/FIFA-World-Cup-Excel-Dashboard
 
 
-### Contact
+## 📫 Contact
 
-- GitHub: https://github.com/abdelr7man3laa
-- https://www.facebook.com/abdelrhman.alaa.365552
-- https://www.instagram.com/abdelr7man.3laa
+- 📧 Email: abdelr7man3mad2004@gmail.com
+- 💼 GitHub: https://github.com/abdelr7man3laa
+- 📘 Facebook: https://www.facebook.com/abdelrhman.alaa.365552
+- 📷 Instagram: https://www.instagram.com/abdelr7man.3laa
 ## 📊 GitHub Stats
 
 <p align="center">
