@@ -23,3 +23,5 @@ I am an aspiring Data Analyst passionate about transforming raw data into action
 - GitHub: https://github.com/abdelr7man3laa
 - https://www.facebook.com/abdelrhman.alaa.365552
 - https://www.instagram.com/abdelr7man.3laa
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdelr7man3laa&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelr7man3laa&layout=compact&theme=tokyonight)
