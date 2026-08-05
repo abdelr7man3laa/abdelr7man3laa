@@ -63,10 +63,10 @@ https://github.com/abdelr7man3laa/FIFA-World-Cup-Excel-Dashboard
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelr7man3laa&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelr7man3laa&layout=compact&theme=tokyonight"/>
-
+[<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelr7man3laa&show_icons=true&theme=tokyonight"/>
+](https://github-readme-stats.vercel.app/api?username=abdelr7man3laa&show_icons=true&theme=tokyonight&cache_seconds=1800)
+[<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelr7man3laa&layout=compact&theme=tokyonight"/>
+](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelr7man3laa&layout=compact&theme=tokyonight&cache_seconds=1800)
 </p>
 
 ---
