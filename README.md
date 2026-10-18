@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Abdelrhman Alaa
 
-<!--
-**abdelr7man3laa/abdelr7man3laa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Graduate | Aspiring IT Help Desk Technician
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate from Beni Suef University, Class of 2026. I completed a CompTIA A+ course and practiced IT support tasks in a training environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hands-on Practice
+
+- PC hardware assembly and disassembly
+- Windows installation and configuration
+- Hardware and software troubleshooting
+- Printer setup and troubleshooting
+- Basic network setup and connectivity checks
+- User account and permission setup
+
+### Training
+
+**CompTIA A+ Course** — Completed  
+*Course completion; official certification exam not taken.*
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/abdelrhman-alaa29)
