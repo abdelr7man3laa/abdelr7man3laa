@@ -29,6 +29,9 @@ Also practiced diagnosing common hardware and software issues, and setting up us
 ### 🎯 Career Focus
 
 IT Help Desk · Technical Support · Desktop Support
+## IT Support Practice
+
+- [View my IT Support Labs](https://github.com/abdelr7man3laa/it-support-labs)
 
 ### 📫 Connect
 
