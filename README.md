@@ -1,23 +1,37 @@
-# Hi, I'm Abdelrhman Alaa
+<div align="center">
 
-### Computer Science Graduate | Aspiring IT Help Desk Technician
+# Abdelrhman Alaa
 
-I'm a Computer Science graduate from Beni Suef University, Class of 2026. I completed a CompTIA A+ course and practiced IT support tasks in a training environment.
+### IT Help Desk | Technical Support | Computer Science Graduate
 
-### Hands-on Practice
+**Learning to solve IT problems one step at a time.**
 
-- PC hardware assembly and disassembly
-- Windows installation and configuration
-- Hardware and software troubleshooting
-- Printer setup and troubleshooting
-- Basic network setup and connectivity checks
-- User account and permission setup
+Seeking an entry-level IT Support opportunity.
 
-### Training
+</div>
 
-**CompTIA A+ Course** — Completed  
-*Course completion; official certification exam not taken.*
+---
 
-### Connect
+### 🧰 Hands-on Training
+
+Practiced IT support tasks as part of my CompTIA A+ course:
+
+| 🖥️ PC Hardware | 🪟 Windows | 🌐 Basic Networking | 🖨️ Printer Support |
+|:---:|:---:|:---:|:---:|
+| Assembly & disassembly | Installation & setup | Connectivity checks | Setup & troubleshooting |
+
+Also practiced diagnosing common hardware and software issues, and setting up user accounts and permissions.
+
+### 🎓 Training
+
+**CompTIA A+ Course** — Completed
+
+### 🎯 Career Focus
+
+IT Help Desk · Technical Support · Desktop Support
+
+### 📫 Connect
 
 [LinkedIn](https://www.linkedin.com/in/abdelrhman-alaa29)
+
+</div>
